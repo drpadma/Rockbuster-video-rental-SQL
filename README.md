@@ -11,3 +11,10 @@ In the end, I prepared a presentation with all of my analytical insights for
 enhancing sales after using Tableau to create visualizations.
 The project brief, raw data, analysis, and other files are included in the above
 attachments.
+
+## Tools used:
+1. PostgresSQL
+2. Tableau
+
+## Visualization
+[Tableau dashboard](https://public.tableau.com/app/profile/padmasini.venugopal/viz/Task3_10-Rockbusterpresentation/Salesbygeographicregions)
