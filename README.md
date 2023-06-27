@@ -13,7 +13,7 @@ The project brief, raw data, analysis, and other files are included in the above
 attachments.
 
 ## Tools used:
-1. PostgresSQL
+1. PostgreSQL
 2. Tableau
 
 ## Visualization
