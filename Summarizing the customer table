@@ -1,4 +1,4 @@
-Finding Descriptive statistics of customer table
+Finding Descriptive statistics of the customer table
 Customer Table		
 SELECT 		
 MODE() WITHIN GROUP (ORDER BY store_id) AS modal_value_store_id,
