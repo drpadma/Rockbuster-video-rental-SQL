@@ -1,4 +1,4 @@
-Finding descriptive statistics of film table
+Finding descriptive statistics of the film table
 SELECT
 MIN(rental_duration) AS minimum_rental_duration,
 MAX(rental_duration) AS maximum_rental_duration,
