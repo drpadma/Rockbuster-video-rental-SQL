@@ -1,5 +1,5 @@
 # Rockbuster Video Rental
-I utilized Postgres and RDBMS to access data from the Rockbuster database,
+I utilized PostgresSQL and RDBMS to access data from the Rockbuster database,
 which houses video rentals.
 By following the creation of an ERD (Entity relationship diagram), I then
 performed various queries in Postgres using the SQL commands to filter the data,
