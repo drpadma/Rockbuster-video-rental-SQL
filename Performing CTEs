@@ -1,4 +1,4 @@
-Using CTEs to find top 5 customers from top 10 cities.
+Using CTEs to find top 5 customers from top 10 cities
 WITH top_5_customers (customer_id, first_name, last_name,city, country, total_amount_paid) AS
 (SELECT  A.customer_id AS number_of_customers,
  	A.first_name AS customer_first_name,
