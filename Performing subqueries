@@ -1,4 +1,4 @@
-To find the average of total amount paid,
+To find the average of total amount paid
 SELECT 
 AVG(total_amount_paid) AS average_total_amount_paid
 FROM
